@@ -94,22 +94,10 @@
     height: 150px;
     margin: 20px;
 }
-.title{
+.img:hover{
+    box-shadow: 5px 8px 10px skyblue;
+}
 
-}
-.qty{
- 
-}
-.price{
-  
-
-}
-.date{
-
-}
-.description{
-
-}
 
 .filter{
   border: 1px solid black;
@@ -164,7 +152,8 @@
 }
 
 .pre-next button:hover{
-  background-color: aquamarine;
+  background-color: navajowhite;
+  box-shadow: navajowhite;
 
 }
 

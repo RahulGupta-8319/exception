@@ -78,7 +78,6 @@ const Products = ({data}) => {
         <div className="pre-next">
           <button className="pre"  onClick={prePage}>pre</button>
           <button className="next" onClick={nextPage}>next</button>
-          {page}
           </div>
     </div>
     
